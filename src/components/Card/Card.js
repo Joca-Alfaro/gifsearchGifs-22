@@ -9,7 +9,7 @@ export const Card = () => {
   return (
     <div className='PADRE'>
         <div className='IMG'>
-            <img  src="./pikachu/indice.png" alt="pikachu.png" />
+            <img  src="https://c.tenor.com/2ik7GaJlNLEAAAAC/dbz-goku.gif" alt="Le vaio la imagen" />
  
    
         </div>
@@ -18,11 +18,11 @@ export const Card = () => {
         
 
         <div className='Titulo'>
-            TITULO DE EL GIFT
+            <h2> Goku</h2>
             </div> 
 
         <div className='Subtitulo'> 
-        SUBTITULO DEL GIFT
+        <h3>Goku en Movimiento</h3>
         </div>
     
     </div>

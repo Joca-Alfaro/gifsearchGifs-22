@@ -1,10 +1,27 @@
 body{
-    background-color: rgb(184, 109, 109);
+    background: rgb(121,33,9);
+    background: linear-gradient(90deg, rgba(121,33,9,0.9136029411764706) 37%, rgba(2,0,36,1) 88%);
 }
 
 .PADRE{
-    border-top-color: #CC0000;
-    border-right-color: blue;
-    border-bottom-color: #00FF00;
-    border-left-color: #CCC;    
+    /* margin-top: 20%;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-bottom: 20%;  */
+    box-shadow: -4px -5px 47px 19px rgba(0,0,0,0.74);
+-webkit-box-shadow: -4px -5px 47px 19px rgba(0,0,0,0.74);
+-moz-box-shadow: -4px -5px 47px 19px rgba(0,0,0,0.74);
+    justify-content: center;
+    border: 1px solid black;
+    width: 30%;
+
+
+}
+
+.Titulo{
+    margin-left: 35%;
+}
+
+.Subtitulo{
+    margin-left: 25%;
 }
