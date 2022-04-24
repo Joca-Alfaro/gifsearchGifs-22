@@ -12,8 +12,10 @@ body{
 -webkit-box-shadow: -4px -5px 47px 19px rgba(0,0,0,0.74);
 -moz-box-shadow: -4px -5px 47px 19px rgba(0,0,0,0.74);
     justify-content: center;
-    border: 1px solid black;
+    border: 4px dashed rgb(201, 178, 178);
     width: 30%;
+    /* background: rgb(121,33,9);
+    background: linear-gradient(90deg, rgba(121,33,9,0.9136029411764706) 37%, rgba(2,0,36,1) 88%); */
 
 
 }
